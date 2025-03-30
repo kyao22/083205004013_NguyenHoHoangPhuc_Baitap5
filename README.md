@@ -8,6 +8,6 @@
 - Tạo function lưu dữ liệu người dùng vào firestore với documentID là UID của firebase.
 ## Hình ảnh mô tả cho câu 1:
 - Màn hình đăng nhập:
-- 
+- ![img.png](img.png)
 - Giao diện profile:
-- 
+- ![img_1.png](img_1.png)
